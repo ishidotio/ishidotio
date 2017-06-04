@@ -4,7 +4,7 @@ html {
 
 .layout {
   padding-left  : 2em;
-  padding-top   : 4em;
+  padding-top   : 2em;
 }
 
 a {
@@ -18,13 +18,12 @@ a {
   padding-bottom  : 4em;
 }
 
-.stream ul {
+.stream {
  padding-left     : 0em;
 }
 
 .stream li {
  list-style-type  : none;
- padding-left     : 0em;
 }
 
 .stream .date {
