@@ -15,7 +15,8 @@ a {
   font-family     : "Josefin Sans", sans-serif;
   font-weight     : 100;
   color           : #aaa;
-  padding-top     : 0.75em;
+  font-size       : 0.75em;
+  padding-top     : 1em;
   border-top      : 1px solid #ccc;
 }
 
