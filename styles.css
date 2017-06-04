@@ -20,7 +20,7 @@ a {
 
 .stream li {
  list-style-type  : none;
- padding-left     : 10em;
+ padding-left     : 0em;
 }
 
 .stream .date {
