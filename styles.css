@@ -19,6 +19,10 @@ a {
   padding-bottom  : 2em;
 }
 
+.stock {
+  width : 20em;
+}
+
 .stream {
  padding-left     : 0em;
 }
