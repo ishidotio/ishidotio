@@ -7,8 +7,9 @@ body {
 }
 
 .stream .date {
-  font-family: "Ek Mukta", sans-serif;
-  color  : #ccc;
+  font-family : "Ek Mukta", sans-serif;
+  font-weight : 200;
+  color       : #ccc;
 }
 
 .stream .text {
