@@ -2,10 +2,10 @@ body {
   background-color  : #fff;
 }
 
-.stream.date {
+ul.li.div.stream.date {
   color  : #ccc;
 }
 
-.stream.text {
+ul.li.div.stream.text {
   color  : #eee;
 }
