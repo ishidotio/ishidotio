@@ -2,6 +2,10 @@ body {
   background-color  : #fff;
 }
 
+.stream li {
+ list-style-type  : none;
+}
+
 .stream .date {
   color  : #ccc;
 }
