@@ -8,6 +8,12 @@ a {
   color           : #993300;
 }
 
+.logo {
+  width : 10em;
+  padding-top     : 2em;
+  padding-bottom  : 4em;
+}
+
 .stream li {
  list-style-type  : none;
 }
