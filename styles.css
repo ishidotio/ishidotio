@@ -9,10 +9,13 @@ body {
 .stream .date {
   font-family : "Ek Mukta", sans-serif;
   font-weight : 200;
+  font-size   : 1.5em;
   color       : #ccc;
+  padding-top : 2em;
 }
 
 .stream .text {
-  font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
-  color  : #333;
+  font-family : medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+  color       : #333;
+  padding-top : 0.5em;
 }
