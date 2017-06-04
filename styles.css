@@ -13,7 +13,7 @@ a {
 .stream .date {
   font-family : "Josefin Sans", sans-serif;
   font-weight : 100;
-  font-size   : 1.5em;
+  font-size   : 0.75em;
   color       : #ccc;
   padding-top : 2em;
 }
@@ -21,5 +21,6 @@ a {
 .stream .text {
   font-family : medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
   color       : #333;
+  font-size   : 1.25em;
   padding-top : 0.5em;
 }
