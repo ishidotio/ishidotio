@@ -3,7 +3,8 @@ html {
 }
 
 .layout {
-  padding : 4em;
+  padding-left  : 2em;
+  padding-top   : 4em;
 }
 
 a {
@@ -19,6 +20,7 @@ a {
 
 .stream li {
  list-style-type  : none;
+ padding-left     : 0;
 }
 
 .stream .date {
