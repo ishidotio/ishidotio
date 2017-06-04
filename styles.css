@@ -19,8 +19,9 @@ a {
 }
 
 .stream .text {
-  font-family : Georgia, Cambria, "Times New Roman", Times, serif;
-  color       : #333;
-  font-size   : 1.25em;
-  padding-top : 0.5em;
+  font-family         : Georgia, Cambria, "Times New Roman", Times, serif;
+  color               : #333;
+  font-size           : 1.25em;
+  padding-top         : 0.5em;
+  border-bottom-color : #ccc;
 }
