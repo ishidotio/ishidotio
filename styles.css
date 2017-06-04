@@ -2,13 +2,13 @@ html {
   background-color  : #fff;
 }n  
 
+.layout {
+  margin  : 2em;
+}
+
 a {
   text-decoration : none;
   color           : #993300;
-}
-
-.layout {
-  margin  : 2em;
 }
 
 .logo {
