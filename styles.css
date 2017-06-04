@@ -16,13 +16,13 @@ a {
   font-weight     : 100;
   color           : #aaa;
   padding-top     : 1em;
-  padding-bottom  : 3em;
   border-top      : 1px solid #ccc;
 }
 
 .stream .text {
-  font-family   : Georgia, Cambria, "Times New Roman", Times, serif;
-  color         : #333;
-  font-size     : 1.25em;
-  padding-top   : 0.5em;
+  font-family     : Georgia, Cambria, "Times New Roman", Times, serif;
+  color           : #333;
+  font-size       : 1.25em;
+  padding-top     : 1em;
+  padding-bottom  : 3em;
 }
