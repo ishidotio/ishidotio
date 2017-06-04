@@ -18,6 +18,10 @@ a {
   padding-bottom  : 4em;
 }
 
+.stream ul {
+ padding-left     : 0em;
+}
+
 .stream li {
  list-style-type  : none;
  padding-left     : 0em;
