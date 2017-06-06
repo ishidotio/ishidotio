@@ -20,8 +20,9 @@ a {
 }
 
 .rotring {
+  font-size : 1.1em;
   position  : relative;
-  top       : 2px;
+  top       : 3px;
 }
 
 .stock {
