@@ -33,7 +33,7 @@ a {
  list-style-type  : none;
 }
 
-.stream .date {
+.stream .header {
   font-family     : Helvetica, sans-serif;
   font-weight     : 100;
   color           : #aaa;
