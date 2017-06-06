@@ -19,6 +19,11 @@ a {
   padding-bottom  : 2em;
 }
 
+.rotring {
+  position:relative;
+  top:-2px;
+}
+
 .stock {
   width : 20em;
   padding-top     : 1em;
